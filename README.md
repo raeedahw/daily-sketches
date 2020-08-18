@@ -1,5 +1,5 @@
 # Daily sketches
-I attempt to create generative art everyday for a week, from 8/17 to 8/24!
+I attempt to create generative art everyday for a week (starting who knows when)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

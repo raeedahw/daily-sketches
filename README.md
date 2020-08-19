@@ -4,7 +4,7 @@ I attempt to create generative art everyday for a week! I want to experiment wit
 Here are a few of the artists, engineers, and/or developers who inspired my own art:
 * [deconbatch](https://www.deconbatch.com/)
  > I don't want to make art with creative coding.
-    > I want to make a code that generates an artistic thing.
+    I want to make a code that generates an artistic thing.
 * [Amelia Wattenberger](https://wattenberger.com/sketches)
 * [Aaron DePass](http://people.duke.edu/~acd41/assignments/final-project/final-project-instance-mode.html)
 

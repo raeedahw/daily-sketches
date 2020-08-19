@@ -1,7 +1,18 @@
 # Daily sketches
-I attempt to create generative art everyday for a week (starting who knows when)!
+I attempt to create generative art everyday for a week! I want to experiment with radically different forms each day and familiarize myself with different code implementations. No extremely intricate designs just yet. Once the week is over, I'll continue updating this repository.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here are a few of the artists, engineers, and/or developers who inspired my own art:
+* [deconbatch](https://www.deconbatch.com/)
+ > I don't want to make art with creative coding.
+    > I want to make a code that generates an artistic thing.
+* [Amelia Wattenberger](https://wattenberger.com/sketches)
+* [Aaron DePass](http://people.duke.edu/~acd41/assignments/final-project/final-project-instance-mode.html)
+
+If you navigate to `src/sketches`, you can view my hand-drawn sketches for each daily sketch through the corresponding day's `README.md`.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You may need to run `npm install --save react-router-dom` in the proper directory.
+
+Create a dependency for P5 as a node package by running `npm i p5` in the terminal.
 
 ## Available Scripts
 
